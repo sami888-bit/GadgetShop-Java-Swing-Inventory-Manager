@@ -1,4 +1,4 @@
-```markdown
+
 # CS4001 Gadget Shop
 
 A Java Swing desktop application built for the CS4001 coursework assignment. The application manages a shop inventory of **Mobile phones** and **MP3 players** stored in an `ArrayList`.
@@ -69,6 +69,4 @@ GadgetShop (extends JFrame, implements ActionListener)
 | **Download Music** | Purple | Calls `downloadMusic()` on the selected MP3 |
 | **Delete Music** | Purple | Calls `deleteMusic()` on the selected MP3 |
 | **Clear** | Grey | Clears all text fields and the output panel |
-
-
 ```
