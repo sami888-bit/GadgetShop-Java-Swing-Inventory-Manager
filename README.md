@@ -42,8 +42,6 @@ GadgetShop (extends JFrame, implements ActionListener)
 
 ```
 
----
-
 ## Features
 
 * Add Mobile phones and MP3 players to an `ArrayList`
