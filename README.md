@@ -76,6 +76,5 @@ GadgetShop (extends JFrame, implements ActionListener)
 | **Delete Music** | Purple | Calls `deleteMusic()` on the selected MP3 |
 | **Clear** | Grey | Clears all text fields and the output panel |
 
-```</Gadget>
 
 ```
