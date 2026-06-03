@@ -1,9 +1,3 @@
-Ah, it looks like that previous response got a bit garbled and cut off at the end! You definitely shouldn't copy-paste that specific version, as the formatting broke completely halfway through.
-
-Here is the clean, beautifully formatted, and complete version matching the structure shown in `image_f2c3c2.jpg` and your code files (`Gadget.java`, `GadgetShop.java`, `Mobile.java`, `MP3.java`). All author details have been completely stripped out so your friend can use it instantly.
-
-You can safely copy and paste the block below:
-
 ```markdown
 # CS4001 Gadget Shop
 
